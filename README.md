@@ -1,8 +1,5 @@
 # Aprendizado por Projeto Integrado (API)
 
-Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
 
@@ -31,20 +28,19 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 |  Team Member  | Vinícius Leite   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-leite-4792b02ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vinileitelog)          |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo a mapear potenciais cargas para movimentação no Aeroporto de SJK (Aeroporto Internacional de São José dos Campos) com base em dados de importações e exportações de municípios da RMVALE e LITORAL NORTE. 
 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Teams
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Jira Software,
+> GitHub,
+> Slack,
+> Power BI, e
+> Office
 
 # Sprints
 
