@@ -9,12 +9,12 @@
 * [Sprints](#Sprints)
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+Este projeto tem como objetivo mapear potenciais cargas para movimentação no Aeroporto de SJK (Aeroporto Internacional de São José dos Campos) com base em dados de importações e exportações de municípios da RMVALE e LITORAL NORTE descrito pelo site da Comex Stat. 
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -27,8 +27,13 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 |  Team Member  | Lucas Braga       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-melo-4542701b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMeloLogistic)          |
 |  Team Member  | Vinícius Leite   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-leite-4792b02ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vinileitelog)          |
 
-# Objetivo do Projeto
-Este projeto tem como objetivo a mapear potenciais cargas para movimentação no Aeroporto de SJK (Aeroporto Internacional de São José dos Campos) com base em dados de importações e exportações de municípios da RMVALE e LITORAL NORTE. 
+# Objetivo do Projeto 
+* Centralizar os trabalhos e projeto;
+* Organizar e estruturar as informações;
+* Versionar e controlar as alterações;
+* Facilitar o compartilhamento e feedback;
+* Desenvolver habilidades técnicas;
+* Atender ao problema proposto.
 
 ## Tecnologias Utilizadas
 
