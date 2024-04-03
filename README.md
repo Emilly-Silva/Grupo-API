@@ -1,5 +1,5 @@
 # Aprendizado por Projeto Integrado (API)
-
+A aprendizagem por projeto integrador é um método de ensino em que os alunos adquirem conhecimentos e habilidades ao trabalhar em projetos práticos que abrangem diversas áreas de aprendizagem. Esses projetos geralmente são interdisciplinares e podem envolver a aplicação de conhecimentos de diversas disciplinas para resolver problemas do mundo real.
 
 # Índice
 
@@ -35,7 +35,11 @@ Este projeto tem como objetivo mapear potenciais cargas para movimentação no A
 * Desenvolver habilidades técnicas;
 * Atender ao problema proposto.
 
-## Tecnologias Utilizadas
+# Justificativa do Projeto
+
+# Resultados Esperados
+
+# Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
  > Teams
