@@ -39,6 +39,7 @@ Este projeto tem como objetivo mapear potenciais cargas para movimentação no A
 Ao criar relacionamentos entre diferentes conjuntos de dados, é possível fornecer uma visão abrangente e detalhada do panorama logístico do país. Isso permitirá aos usuários explorar e compreender melhor as dinâmicas dos modais de transporte, identificar tendências e tomar decisões com base nas informações apresentadas.
 
 # Resultados Esperados
+O dashboard resultante não apenas fornecerá uma visão geral dos modais mais utilizados, mas também permitirá uma análise aprofundada como, custos, análise mensal dos resultados das movimentações de cargas e volumes de carga. Além disso, a representação geográfica das cargas permitirá visualizar de forma intuitiva as rotas e os hubs logísticos mais críticos no Brasil. Sendo assim, o projeto visa capacitar profissionais do setor de logística com as ferramentas necessárias para otimizar operações, reduzir custos e tomar decisões estratégicas fundamentadas em dados confiáveis. O Power BI servirá como uma plataforma poderosa para transformar dados em insights valiosos, permitindo que as partes interessadas naveguem no complexo panorama da logística brasileira de maneira eficaz e eficiente.
 
 # Tecnologias Utilizadas
 
