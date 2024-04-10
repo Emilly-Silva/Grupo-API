@@ -86,7 +86,7 @@ Requisitos não funcionais
 <div align="center">
     
 ![Backlog do produto](https://github.com/Emilly-Silva/Grupo-API/assets/163305926/29f73a75-a6fc-45c8-8303-abc4d5130506).
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
+![Backlog 1 Sprint](https://github.com/Emilly-Silva/Grupo-API/assets/163305926/f087ac3b-6f31-447b-a11f-c74d01412f4d)
 </div>
 
 
