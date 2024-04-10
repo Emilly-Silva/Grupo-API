@@ -36,7 +36,7 @@ Este projeto tem como objetivo mapear potenciais cargas para movimentação no A
 * Atender ao problema proposto.
 
 # Justificativa do Projeto
-Ao criar relacionamentos entre diferentes conjuntos de dados , é possível fornecer uma visão abrangente e detalhada do panorama logístico do país. Isso permitirá aos usuários explorar e compreender melhor as dinâmicas dos modais de transporte, identificar tendências e tomar decisões com base nas informações apresentadas.
+Ao criar relacionamentos entre diferentes conjuntos de dados, é possível fornecer uma visão abrangente e detalhada do panorama logístico do país. Isso permitirá aos usuários explorar e compreender melhor as dinâmicas dos modais de transporte, identificar tendências e tomar decisões com base nas informações apresentadas.
 
 # Resultados Esperados
 
