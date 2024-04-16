@@ -141,10 +141,13 @@ Requisitos não funcionais
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
+Sprint | Status | Histórico |
+|------|------|--------|
+|01| concluído| [Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%21131&authkey=!ALsiXF5D9Gxg1bM&em=2) | 
+|02| a fazer |[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| a fazer|[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|04| a fazer |[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|Feira de Soluções|a fazer |[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 [![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
