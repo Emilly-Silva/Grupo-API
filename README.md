@@ -149,8 +149,6 @@ Sprint | Status | Histórico |
 |04| a fazer |[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|a fazer |[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
-
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
