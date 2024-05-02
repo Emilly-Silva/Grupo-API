@@ -96,7 +96,7 @@ Requisitos não funcionais
 
 
 # Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+![image](https://github.com/Emilly-Silva/Grupo-API/assets/163305926/d71776e9-07f2-4d43-bffd-c8c8ffb08a8e)
 
 
 ## Sprint 1. Concepção
