@@ -106,16 +106,16 @@ Requisitos não funcionais
 - [x] Escolha cores e fontes;
 - [x] Desenvolva o design;
 - [ ] Teste e revise;
-- [ ] Documente instruções de uso;
+- [x] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
+- [x] Documento passo a passo;
 - [ ] Vídeo passo a passo;
 - [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [x] Treinamento com os alunos;
+- [x] Monitoramento e ajustes.
       
 ## Sprint 3 . Implementação
 - [x] Defina o propósito do template;
