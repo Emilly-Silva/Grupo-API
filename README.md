@@ -90,8 +90,8 @@ Requisitos não funcionais
   
 <div align="center">
     
-![Backlog do produto](https://github.com/Emilly-Silva/Grupo-API/assets/163305926/29f73a75-a6fc-45c8-8303-abc4d5130506).
-![Backlog 1 Sprint](https://github.com/Emilly-Silva/Grupo-API/assets/163305926/f087ac3b-6f31-447b-a11f-c74d01412f4d)
+<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163305926/ed8cf7ca-7851-49fd-8a66-8afecaf891eb" width="700"/>
+<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163305926/490d8071-fb07-4982-b456-f601c2c8cc29" width="700"/>
 </div>
 
 
