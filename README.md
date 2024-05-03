@@ -92,6 +92,9 @@ Requisitos não funcionais
     
 <img src="https://github.com/Emilly-Silva/Grupo-API/assets/163305926/ed8cf7ca-7851-49fd-8a66-8afecaf891eb" width="700"/>
 <img src="https://github.com/Emilly-Silva/Grupo-API/assets/163305926/490d8071-fb07-4982-b456-f601c2c8cc29" width="700"/>
+<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163305926/ed8cf7ca-7851-49fd-8a66-8afecaf891eb" width="700"/>
+<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163305926/490d8071-fb07-4982-b456-f601c2c8cc29" width="700"/>
+
 </div>
 
 
