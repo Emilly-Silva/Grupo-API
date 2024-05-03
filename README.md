@@ -144,7 +144,7 @@ Requisitos não funcionais
 Sprint | Status | Histórico |
 |------|------|--------|
 |01| concluído| [Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%21135&authkey=!AKA0yDcOb2Dartc&em=2) | 
-|02| a fazer |[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| concluído|[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| a fazer|[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04| a fazer |[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|a fazer |[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
