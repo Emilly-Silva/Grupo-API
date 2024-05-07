@@ -143,13 +143,13 @@ Requisitos não funcionais
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
-Sprint | Status | Histórico |
-|------|------|--------|
-|01| concluído| [Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%21135&authkey=!AKA0yDcOb2Dartc&em=2) | 
-|02| concluído|[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211140&authkey=!APBX9COA3oZJF_Y&em=2) | 
-|03| a fazer|[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| a fazer |[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|a fazer |[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+Sprint | Status | Cliente | Professores |
+|------|------|-------| ----------- |
+|01| concluído| [Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%21135&authkey=!AKA0yDcOb2Dartc&em=2) | [Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
+|02| concluído|[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211140&authkey=!APBX9COA3oZJF_Y&em=2) | [Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211141&authkey=!ABab6Y07Jh3_9_c&em=2)
+|03| a fazer|[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | [Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
+|04| a fazer |[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | [Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
+|Feira de Soluções|a fazer |[Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | [Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
 
 # Competências desenvolvidas
 
