@@ -39,7 +39,7 @@ Este projeto tem como objetivo mapear potenciais cargas para movimentação no A
 
 * Missão: Transformar dados em insights poderosos para otimizar as operações no modal aéreo, fornecendo soluções de consultoria de análise de dados que impulsionem a eficiência, segurança e rentabilidade de nossos clientes.
 * Visão: Ser a principal parceira estratégica na análise de dados para o setor de transporte aéreo, reconhecida pela qualidade excepcional de nossos serviços, pela inovação contínua e pelo impacto positivo nas operações de nossos clientes.
-* Valores: Excelência Analítica,Confiança e Integridade,Inovação Constante,Colaboração e Parceria,Foco no Cliente
+* Valores: Excelência analítica, confiança e integridade, inovação constante, colaboração e parceria, foco no cliente.
 
 </div>
 
