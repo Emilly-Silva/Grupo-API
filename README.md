@@ -33,13 +33,10 @@ Este projeto tem como objetivo mapear potenciais cargas para movimentação no A
 
 # Sobre a TRADELOG
 
-<div align="center">
     
 <img src="![logo e slogan](https://github.com/Emilly-Silva/Grupo-API/assets/163060143/42be2dea-60db-4a9f-b3d2-4cf2e9e0d40a)" width="700"/>
 <img src="![missão visão e valores](https://github.com/Emilly-Silva/Grupo-API/assets/163060143/5c7a2db2-50b7-44d9-9a60-7e18271c2c66)" width="700"/>
 
-
-</div>
 
 # Objetivo do Projeto 
 * Centralizar os trabalhos e projeto;
