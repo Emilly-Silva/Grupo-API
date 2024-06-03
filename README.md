@@ -1,6 +1,6 @@
 <span align="center">
 
-##  Hellooo Helloo World! 👋 
+##  Somos a TRADELOG! 👋 
 
 </span>
 
