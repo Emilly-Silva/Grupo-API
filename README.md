@@ -31,6 +31,16 @@ Este projeto tem como objetivo mapear potenciais cargas para movimentação no A
 |  Team Member  | Lucas Braga       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-melo-4542701b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMeloLogistic)          |
 |  Team Member  | Vinícius Leite   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-leite-4792b02ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vinileitelog)          |
 
+# Sobre a TRADELOG
+
+<div align="center">
+    
+<img src="![logo e slogan](https://github.com/Emilly-Silva/Grupo-API/assets/163060143/42be2dea-60db-4a9f-b3d2-4cf2e9e0d40a)" width="700"/>
+<img src="![missão visão e valores](https://github.com/Emilly-Silva/Grupo-API/assets/163060143/5c7a2db2-50b7-44d9-9a60-7e18271c2c66)" width="700"/>
+
+
+</div>
+
 # Objetivo do Projeto 
 * Centralizar os trabalhos e projeto;
 * Organizar e estruturar as informações;
