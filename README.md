@@ -29,11 +29,12 @@ A aprendizagem por projeto integrador é um método de ensino em que os alunos a
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
-<span align="center"> 
  
 # Projeto (API) 
 Este projeto tem como objetivo mapear potenciais cargas para movimentação no Aeroporto de SJK (Aeroporto Internacional de São José dos Campos) com base em dados de importações e exportações de municípios da RMVALE e LITORAL NORTE descrito pelo site da Comex Stat. 
 
+<span align="center">
+ 
 # Sobre a TRADELOG
 
 <div align="center">
