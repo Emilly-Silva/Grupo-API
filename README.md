@@ -31,6 +31,13 @@ A aprendizagem por projeto integrador é um método de ensino em que os alunos a
 # Projeto (API) 
 Este projeto tem como objetivo mapear potenciais cargas para movimentação no Aeroporto de SJK (Aeroporto Internacional de São José dos Campos) com base em dados de importações e exportações de municípios da RMVALE e LITORAL NORTE descrito pelo site da Comex Stat. 
 
+# Sobre a TRADELOG
+
+<div align="center">
+<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163060143/41a467a8-460d-4bfc-b512-d511b934cdea" width="700px" />
+</div>
+
+
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -41,12 +48,6 @@ Este projeto tem como objetivo mapear potenciais cargas para movimentação no A
 |  Team Member  | Kaick Silva                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaick-silva-418869230/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ka1ck)   |
 |  Team Member  | Lucas Braga       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-melo-4542701b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMeloLogistic)          |
 |  Team Member  | Vinícius Leite   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-leite-4792b02ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vinileitelog)          |
-
-# Sobre a TRADELOG
-
-<div align="center">
-<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163060143/41a467a8-460d-4bfc-b512-d511b934cdea" width="700px" />
-</div>
 
 
 
