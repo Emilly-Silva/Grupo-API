@@ -1,3 +1,6 @@
+![logo e slogan](https://github.com/Emilly-Silva/Grupo-API/assets/163060143/e896b81e-973c-47de-857e-0277309acfad)
+
+
 # Aprendizado por Projeto Integrado (API)
 A aprendizagem por projeto integrador é um método de ensino em que os alunos adquirem conhecimentos e habilidades ao trabalhar em projetos práticos que abrangem diversas áreas de aprendizagem. Esses projetos geralmente são interdisciplinares e podem envolver a aplicação de conhecimentos de diversas disciplinas para resolver problemas do mundo real.
 
