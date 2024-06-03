@@ -40,6 +40,7 @@ Este projeto tem como objetivo mapear potenciais cargas para movimentação no A
 <div align="center">
 <img src="https://github.com/Emilly-Silva/Grupo-API/assets/163060143/41a467a8-460d-4bfc-b512-d511b934cdea" width="700px" />
 </div>
+
 </span>
 
 
