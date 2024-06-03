@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<img src="" width="700px" />
+<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163305926/79432181-3dd9-40d7-af42-6ee521b48168" width="1000px" />
 </div>
 </span>
 
