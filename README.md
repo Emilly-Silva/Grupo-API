@@ -45,7 +45,7 @@ Este projeto tem como objetivo mapear potenciais cargas para movimentação no A
 # Sobre a TRADELOG
 
 <div align="center">
-<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163060143/e896b81e-973c-47de-857e-0277309acfad" width="700px" />
+<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163060143/41a467a8-460d-4bfc-b512-d511b934cdea" width="700px" />
 </div>
 
 
