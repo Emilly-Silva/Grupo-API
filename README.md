@@ -54,7 +54,7 @@ O dashboard resultante não apenas fornecerá uma visão geral dos modais mais u
  > Jira Software,
 > GitHub,
 > Slack,
-> Power BI, e
+> Power Bi
 > Office
 
 # Sprints
@@ -64,7 +64,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 11/03/2024 | concluido|        | 
 |01 | 15/04/2024 | concluido| [Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%21129&authkey=!AKmqcoLLeY09P0k&em=2) | 
 |02|  06/05/2024| concluído |[Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%211139&authkey=!AEXtDjIMihOR3EA&em=2) | 
-|03| 27/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 27/05/2024 | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04| 17/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
@@ -107,32 +107,29 @@ Requisitos não funcionais
 - [x] Esboce o layout;
 - [x] Escolha cores e fontes;
 - [x] Desenvolva o design;
-- [ ] Teste e revise;
+- [x] Teste e revise;
 - [x] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Finalize e aprovação.
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [x] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [x] Treinamento com os alunos;
+- [x] Treinamento com os professores;
+- [x] Revisão com a equipe;
 - [x] Monitoramento e ajustes.
       
 ## Sprint 3 . Implementação
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Defina o propósito do template;
+- [x] Identifique os elementos principais;
+- [x] Esboce o layout;
+- [x] Escolha cores e fontes;
+- [x] Desenvolva o design;
+- [x] Teste e revise;
+- [x] Documente instruções de uso;
+- [x] Finalize e aprovação.
       
 ## Sprint 4. Operacionalização
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
+- [x] Defina o propósito do template;
+- [x] Identifique os elementos principais;
 - [ ] Esboce o layout;
 - [ ] Escolha cores e fontes;
 - [ ] Desenvolva o design;
