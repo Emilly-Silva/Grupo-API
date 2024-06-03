@@ -1,9 +1,8 @@
-</span> align="center"> 
+<span> align="center"> 
 
 ##  Somos a TRADELOG! 👋 
-width="700px" />
 
-</div>
+<span>
 
 <div align="center">
 <img src="https://github.com/Emilly-Silva/Grupo-API/assets/163060143/e896b81e-973c-47de-857e-0277309acfad" width="700px" />
