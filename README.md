@@ -1,6 +1,6 @@
 <span align="center"> 
 
-##  Somos a TRADELOG! 👋 
+##  Somos a TRADELOG! 
 
 
 <div align="center">
