@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163060143/d1398248-fb4a-4074-9b0b-081027cf9bc1" width="700px" />
+<img src="" width="700px" />
 </div>
 </span>
 
@@ -33,12 +33,14 @@ A aprendizagem por projeto integrador é um método de ensino em que os alunos a
 # Projeto (API) 
 Este projeto tem como objetivo mapear potenciais cargas para movimentação no Aeroporto de SJK (Aeroporto Internacional de São José dos Campos) com base em dados de importações e exportações de municípios da RMVALE e LITORAL NORTE descrito pelo site da Comex Stat. 
 
-<span align="center">
+
  
 # Sobre a TRADELOG
 
-<div align="center">
-<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163060143/41a467a8-460d-4bfc-b512-d511b934cdea" width="700px" />
+* Missão: Transformar dados em insights poderosos para otimizar as operações no modal aéreo, fornecendo soluções de consultoria de análise de dados que impulsionem a eficiência, segurança e rentabilidade de nossos clientes.
+* Visão: Ser a principal parceira estratégica na análise de dados para o setor de transporte aéreo, reconhecida pela qualidade excepcional de nossos serviços, pela inovação contínua e pelo impacto positivo nas operações de nossos clientes.
+* Valores: Excelência Analítica,Confiança e Integridade,Inovação Constante,Colaboração e Parceria,Foco no Cliente
+
 </div>
 
 </span>
