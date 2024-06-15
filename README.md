@@ -94,7 +94,7 @@ Sprint | Previsão | Status| Histórico|
 |02|  06/05/2024| concluído |[Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%211139&authkey=!AEXtDjIMihOR3EA&em=2) | 
 |03| 27/05/2024 | concluído |[Ver Relatório](https://github.com/user-attachments/files/15740047/relatorio.3.Sprint.-.API.-.1.sem.log.-.manha-1.docx) | 
 |04| 17/06/2024 | concluído |[Ver Relatório](https://github.com/user-attachments/files/15778554/relatorio.4.Sprint.-.API.-.1.sem.log.-.manha-1.docx)  | 
-|Feira de Soluções|27/06/2024 | |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Feira de Soluções|27/06/2024 | |[Ver Relatório] | 
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
