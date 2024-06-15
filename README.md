@@ -158,12 +158,11 @@ Requisitos não funcionais
 ## Sprint 4. Operacionalização
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
+- [x] Esboce o layout;
+- [x] Escolha cores e fontes;
+- [x] Desenvolva o design;
 - [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
+- [x] Documente instruções de uso;
 - [ ] Finalize e aprovação.
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
