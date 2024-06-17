@@ -161,9 +161,9 @@ Requisitos não funcionais
 - [x] Esboce o layout;
 - [x] Escolha cores e fontes;
 - [x] Desenvolva o design;
-- [ ] Teste e revise;
+- [x] Teste e revise;
 - [x] Documente instruções de uso;
-- [ ] Finalize e aprovação.
+- [x] Finalize e aprovação.
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
