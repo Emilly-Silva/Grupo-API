@@ -115,12 +115,14 @@ Requisitos não funcionais
 - Power BI / Jira / Canvas
   
 # Backlog do produto
-  
-<div align="center">
-    
-<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163305926/ed8cf7ca-7851-49fd-8a66-8afecaf891eb" width="700"/>
-<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163305926/6e4ac658-9190-4eff-bbba-f61f5b932a94" width="700"/>
-<img src="https://github.com/Emilly-Silva/Grupo-API/assets/163305926/490d8071-fb07-4982-b456-f601c2c8cc29" width="700"/>
+
+- [x] Mapear potenciais cargas para movimentação no aeroporto de SJK com base em dados de importações e exportações de municípios da RMvale e Litoral norte;
+- [x] Pesquisar sobe impostos de movimentação de cargas modal aereo no brasil (interestadual e imposto de entrada e saida);
+- [x] Demonstrar qual a contribuição que o aumento da movimentação de carga pode trazer para a região definida;
+- [x] Pesquisar sobre tipos de avioes de carga e capacidade;
+- [x] Demonstrar potencial de movimentação de carga interna;
+- [x] Desenvolver Dashboard no power BI;
+- [x] Dashboard de probabilidades;
 
 </div>
 
@@ -129,41 +131,30 @@ Requisitos não funcionais
 ![image](https://github.com/Emilly-Silva/Grupo-API/assets/163305926/d71776e9-07f2-4d43-bffd-c8c8ffb08a8e)
 
 
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [x] Teste e revise;
-- [x] Documente instruções de uso;
-- [x] Finalize e aprovação.
+## Sprint 1
+- [x] Backlog do produto;
+- [x] Github estruturado e com link disponibilizado;
+- [x] Jira Software estruturado;
+- [x] Atribuições das atividades da Sprint 2;
+- [x] Fazer relatório técnico da sprint 1;
+- [x] Workshop de Power BI para nivelamento da equipe com a ferramenta;
 
-## Sprint 2. Desenvolvimento do Projeto
-- [x] Documento passo a passo;
-- [x] Treinamento com os professores;
-- [x] Revisão com a equipe;
-- [x] Monitoramento e ajustes.
+## Sprint 2
+- [x] Teste do dashboard deseonvolvido;
+- [x] Entrega relatório técnico da sprint 2;
+- [x] Estruturar funções do power BI;
       
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [x] Teste e revise;
-- [x] Documente instruções de uso;
-- [x] Finalize e aprovação.
+## Sprint 3
+- [x] Validar quociente VF_fob / KG liquido;
+- [x] Ajuste de formação do dash de tela;
+- [x] Apresentação do BI 95% concluida;
+- [x] Entrega relatório técnico da sprint 3;
       
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [x] Teste e revise;
-- [x] Documente instruções de uso;
-- [x] Finalize e aprovação.
+## Sprint 4
+- [x] Apresentação na feira de soluções;
+- [x] Alinhamento com a equipe de como será realizada a apresentação para os visitantes da feira;
+- [x] Entrega relatório técnico da sprint 4;
+- [x] Corrigir erros e aperfeiçoar o dashboard;
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
